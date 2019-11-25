@@ -1,0 +1,9 @@
+F:\Project\Belajar C#\08\CalculatorApp\bin\Debug\CalculatorApp.exe
+F:\Project\Belajar C#\08\CalculatorApp\bin\Debug\CalculatorApp.pdb
+F:\Project\Belajar C#\08\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+F:\Project\Belajar C#\08\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+F:\Project\Belajar C#\08\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+F:\Project\Belajar C#\08\CalculatorApp\obj\Debug\CalculatorApp.exe
+F:\Project\Belajar C#\08\CalculatorApp\obj\Debug\CalculatorApp.pdb
+F:\Project\Belajar C#\08\CalculatorApp\obj\Debug\CalculatorApp.FrmEntry.resources
+F:\Project\Belajar C#\08\CalculatorApp\obj\Debug\CalculatorApp.FrmList.resources
