@@ -1,6 +1,6 @@
 ﻿namespace CalculatorApp
 {
-    partial class FrmEntry
+    partial class FrmInput
     {
         /// <summary>
         /// Required designer variable.
@@ -48,6 +48,7 @@
             // 
             // cbOperasi
             // 
+            this.cbOperasi.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbOperasi.FormattingEnabled = true;
             this.cbOperasi.Items.AddRange(new object[] {
             "Penjumlahan",
@@ -101,7 +102,7 @@
             this.btnProses.UseVisualStyleBackColor = true;
             this.btnProses.Click += new System.EventHandler(this.btnProses_Click);
             // 
-            // FrmEntry
+            // FrmInput
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -113,7 +114,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.cbOperasi);
             this.Controls.Add(this.label1);
-            this.Name = "FrmEntry";
+            this.Name = "FrmInput";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculator";
             this.ResumeLayout(false);

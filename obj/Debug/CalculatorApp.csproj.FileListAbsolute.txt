@@ -7,3 +7,14 @@ F:\Project\Belajar C#\08\CalculatorApp\obj\Debug\CalculatorApp.exe
 F:\Project\Belajar C#\08\CalculatorApp\obj\Debug\CalculatorApp.pdb
 F:\Project\Belajar C#\08\CalculatorApp\obj\Debug\CalculatorApp.FrmEntry.resources
 F:\Project\Belajar C#\08\CalculatorApp\obj\Debug\CalculatorApp.FrmList.resources
+C:\Users\MDP\Downloads\Telegram Desktop\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\MDP\Downloads\Telegram Desktop\CalculatorApp\obj\Debug\CalculatorApp.pdb
+D:\prasetyo\School\Amikom\Pemrograman\18.11.2365\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\prasetyo\School\Amikom\Pemrograman\18.11.2365\CalculatorApp\obj\Debug\CalculatorApp.pdb
+D:\prasetyo\School\Amikom\Pemrograman\18.11.2365\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\prasetyo\School\Amikom\Pemrograman\18.11.2365\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\prasetyo\School\Amikom\Pemrograman\18.11.2365\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+D:\prasetyo\School\Amikom\Pemrograman\18.11.2365\CalculatorApp\obj\Debug\CalculatorApp.FrmInput.resources
+D:\prasetyo\School\Amikom\Pemrograman\18.11.2365\CalculatorApp\obj\Debug\CalculatorApp.FrmHasil.resources
+D:\prasetyo\School\Amikom\Pemrograman\18.11.2365\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\prasetyo\School\Amikom\Pemrograman\18.11.2365\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache

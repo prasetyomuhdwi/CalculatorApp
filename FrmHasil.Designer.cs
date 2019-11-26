@@ -1,6 +1,6 @@
 ﻿namespace CalculatorApp
 {
-    partial class FrmList
+    partial class FrmHasil
     {
         /// <summary>
         /// Required designer variable.

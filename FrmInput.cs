@@ -9,15 +9,17 @@ using System.Windows.Forms;
 
 namespace CalculatorApp
 {
-    public partial class FrmEntry : Form
+    public partial class FrmInput : Form
     {
         public delegate void CreateUpdateEventHandler(int nilaiA, int nilaiB, int index);
 
         public event CreateUpdateEventHandler Perhitungan;
 
-        public FrmEntry()
+        public FrmInput()
         {
             InitializeComponent();
+            cbOperasi.Text = "Penjumlahan";
+
         }
 
         private void btnProses_Click(object sender, EventArgs e)
@@ -27,5 +29,6 @@ namespace CalculatorApp
 
             Perhitungan(a, b, cbOperasi.SelectedIndex);
         }
+
     }
 }
